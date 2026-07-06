@@ -1,12 +1,15 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Satyam%20Prakash%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20VLSI%20%26%20WSN&descAlignY=58&descSize=18&animation=fadeIn" />
+  <!-- Main Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=260&section=header&text=Satyam%20Prakash%20Gupta&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20VLSI%20%26%20WSN&descAlignY=62&descSize=19&animation=fadeIn" alt="Banner" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Final+Year+Electronics+Engineering+Student;Embedded+Systems+%26+VLSI+Enthusiast;Research+in+Energy-Efficient+Wireless+Sensor+Networks;Building+Real-Time+Hardware+Solutions+%F0%9F%94%8C;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=4000&pause=800&color=00f5ff&center=true&vCenter=true&width=680&lines=Final+Year+Electronics+Engineering+Student;Passionate+about+Embedded+Systems+%26+VLSI;Researcher+in+Energy-Efficient+WSN;Building+Real-Time+Hardware+Solutions+%F0%9F%94%8C;Open+to+Internships+%26+Collaborations+%E2%9C%A8" alt="Typing SVG" />
   <br/><br/>
 
+  <!-- Social Badges -->
   <p>
     <a href="https://github.com/satyamprakash">
-      <img src="https://komarev.com/ghpvc/?username=satyamprakash&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
+      <img src="https://komarev.com/ghpvc/?username=satyamprakash&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/satyam-prakash-gupta">
@@ -27,30 +30,28 @@
 
 ## 🧠 About Me
 
-Passionate **Electronics Engineering** student (CGPA **7.78**) with strong hands-on experience in embedded systems, industrial power electronics, and research in Wireless Sensor Networks.
-
-I enjoy working at the intersection of hardware and software — from repairing industrial IGBT-based systems to developing real-time monitoring solutions and energy-efficient communication protocols.
+Passionate **Electronics Engineering** student (CGPA **7.78/10**) with strong practical experience in industrial electronics, embedded systems, and research on energy-efficient Wireless Sensor Networks (WSN).
 
 ---
 
 ## 🎓 Education
 
 **B.Tech - Electronics Engineering**  
-**Rajkiya Engineering College, Kannauj**  
-*Nov 2022 – Jun 2026* | **CGPA: 7.78/10** (SGPA **9.25** in Semester VIII)
+**Rajkiya Engineering College, Kannauj** | Nov 2022 – Jun 2026  
+**CGPA:** 7.78/10 | **SGPA Sem VIII:** 9.25/10
 
-**Relevant Coursework:** Digital Electronics, Analog Electronics, VLSI Design, Microprocessors & MCUs, Communication Systems, Digital Signal Processing, Integrated Circuits.
+**Relevant Coursework:** Digital Electronics, Analog Electronics, VLSI Design, Microprocessors & MCUs, Communication Systems, Digital Signal Processing.
 
 ---
 
 ## 💼 Experience
 
 **Electronics Engineering Intern**  
-**Lohia Corp Ltd., Kanpur** | *Jul 2025 – Aug 2025*
+**Lohia Corp Ltd., Kanpur** | Jul 2025 – Aug 2025
 
-- Diagnosed and repaired analog amplifier cards and **IGBT-based industrial control panels** (10+ cases)
-- Debugged **IGBT gate drivers**, DC–DC converters, SMPS, and motor drive circuits
-- Validated repairs using oscilloscopes, multimeters, datasheets, and waveform analysis
+- Diagnosed & repaired analog amplifier cards and **IGBT-based industrial control panels** (10+ cases)
+- Debugged **IGBT gate drivers**, DC–DC converters, SMPS, and motor drives
+- Validated hardware using oscilloscopes, multimeters, and datasheets
 
 ---
 
@@ -58,9 +59,9 @@ I enjoy working at the intersection of hardware and software — from repairing 
 
 **DP-EBMA: Dynamic Piggyback Energy-Efficient MAC Protocol for Railway WSN** *(IEEE-style Paper)*
 
-- Designed a dynamic two-bit piggyback MAC protocol with adaptive slot allocation
-- Developed MATLAB simulator to evaluate multiple MAC protocols under varying traffic
-- **Results:** 35% lower energy consumption, 37% lower latency, **1.5× higher throughput**, 99.79% PDR over E-BMA
+- Designed adaptive slot allocation MAC protocol for Railway Wireless Sensor Networks
+- Developed MATLAB simulator comparing 6 MAC protocols
+- **Achievements:** 35% lower energy, 37% lower latency, **1.5× higher throughput**, 99.79% PDR
 
 ---
 
@@ -73,54 +74,50 @@ I enjoy working at the intersection of hardware and software — from repairing 
       <p><strong>Apr 2025</strong></p>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <p>Real-time ECG acquisition & visualization system using AD8232 sensor and ATmega328P.</p>
-      <a href="https://github.com/satyamprakash">View Project →</a>
+      <p>Real-time ECG acquisition system using AD8232 + ATmega328P with Python visualization.</p>
+      <a href="https://github.com/satyamprakash">→ View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>🚰 Autonomous Irrigation Controller</h3>
       <p><strong>Feb 2024</strong></p>
       <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-      <p>Soil moisture based autonomous irrigation system with relay control and interrupt-driven logic.</p>
-      <a href="https://github.com/satyamprakash">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📡 Railway WSN Telemetry Dashboard</h3>
-      <p><strong>Jun 2025</strong></p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
-      <p>Interactive dashboard for real-time telemetry, latency, and fault detection in Railway Wireless Sensor Networks.</p>
-      <a href="https://github.com/satyamprakash">View Project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 DP-EBMA MAC Protocol</h3>
-      <p><strong>Research Project</strong></p>
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-      <p>Energy-efficient MAC protocol for Railway WSN with significant performance improvements.</p>
+      <p>Smart soil moisture based irrigation system with relay control.</p>
+      <a href="https://github.com/satyamprakash">→ View Project</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Technical Skills
 
-**Languages:** Java, C, C++, Python, MATLAB, Verilog HDL  
-**Hardware:** VLSI, RTL Design, Digital/Analog Design, PCB Design, DC–DC Converters, SMPS, Motor Drives, Inverters  
-**Embedded:** Embedded C, Arduino UNO, ATmega328P, ADC/DAC, UART, Sensor & Relay Interfacing  
-**EDA Tools:** MATLAB/Simulink, Cadence, LTSpice, Proteus, Multisim  
-**Tools:** Git, VS Code, Arduino IDE
+**Languages:** C, C++, Python, Java, MATLAB, Verilog HDL  
+**Hardware:** VLSI, RTL Design, PCB Design, IGBT, SMPS, DC-DC Converters, Motor Drives  
+**Embedded:** Arduino, ATmega328P, Embedded C, ADC/DAC, UART, Sensor Interfacing  
+**Tools:** MATLAB/Simulink, Cadence, LTSpice, Proteus, Multisim, Git
 
 ---
 
 ## 🏆 Achievements
 
-- Maintained **CGPA 7.78/10** with improving performance (SGPA **9.25** in Semester VIII)
-- Secured **A+ grades** in 10+ core Electronics laboratory courses
-- Designed & evaluated DP-EBMA protocol achieving major improvements in energy, latency, and throughput
+- SGPA **9.25** in Semester VIII
+- **A+** in 10+ core Electronics laboratory courses
+- Designed DP-EBMA protocol with significant performance gains
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamprakash&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamprakash&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamprakash&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=120&section=footer" />
