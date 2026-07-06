@@ -114,9 +114,9 @@
 
 | 🚀 Project | 💡 Description | 🛠️ Tech Stack | 🔗 Repository |
 |------------|----------------|---------------|--------------|
-| **Railway WSN Telemetry Simulation Dashboard** | IEEE 802.15.4 dashboard for telemetry visualization, latency monitoring, packet-loss analysis, and fault detection. | JavaScript • Leaflet.js • Chart.js | **[Repository](https://github.com/yourusername/repository)** |
-| **Real-Time ECG Graph Monitoring** | Built a real-time ECG acquisition and visualization system using analog signal conditioning and Python-based monitoring. | Arduino UNO • ATmega328P • Python • AD8232 | **[Repository](https://github.com/yourusername/repository)** |
-| **Autonomous Closed-Loop Water Irrigation Controller** | Embedded irrigation controller with ADC-based sensing, relay control, and interrupt-driven automation. | Arduino UNO • Embedded C • ADC | **[Repository](https://github.com/yourusername/repository)** |
+| **Railway WSN Telemetry Simulation Dashboard** | IEEE 802.15.4 dashboard for telemetry visualization, latency monitoring, packet-loss analysis, and fault detection. | JavaScript • Leaflet.js • Chart.js | **[Repository](https://github.com/satyamprakash2902/RailwayTrackSimulation)** |
+| **Real-Time ECG Graph Monitoring** | Built a real-time ECG acquisition and visualization system using analog signal conditioning and Python-based monitoring. | Arduino UNO • ATmega328P • Python • AD8232 | **[Repository]()** |
+| **Autonomous Closed-Loop Water Irrigation Controller** | Embedded irrigation controller with ADC-based sensing, relay control, and interrupt-driven automation. | Arduino UNO • Embedded C • ADC | **[Repository](https://github.com/satyamprakash2902/automatic-irrigation-system)** |
 
 ---
 
@@ -190,11 +190,11 @@
 
 <div align="center">
 
-<a href="https://github.com/satyamprakash">
+<a href="https://github.com/satyamprakash2902">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/satyam-prakash-gupta">
+<a href="https://www.linkedin.com/in/satyam-prakash-gupta-742128258/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -202,9 +202,6 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
 
 </div>
 
